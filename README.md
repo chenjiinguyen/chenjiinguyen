@@ -1,6 +1,6 @@
 ## Hi there 👋
   
-👍 I'm Nguyễn Trần Phương Duy. I'm fresher Back-end Web Developer.  
+👍 I'm Nguyen Tran Phuong Duy. I'm fresher Back-end Web Developer.  
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=chenjiinguyen)](https://github.com/chenjiinguyen/)  
 
