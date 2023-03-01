@@ -7,8 +7,11 @@ I have experience in `Typescript`, `Python`, `Docker`, and I'm always looking to
 ## Statistics
 
 <div>
-  <a href="https://github.com/howznguyen?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howznguyen&layout=compact&theme=react&hide=php&langs_count=6" />
+  <a href="https://github.com/howznguyen?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img height="154" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=blueberry" />
+  </a>
+  
+ ![](https://komarev.com/ghpvc/?username=howznguyen&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 </div>
 
 ## Knowledge
