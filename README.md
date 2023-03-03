@@ -4,10 +4,7 @@ I'm **Howz Nguyen**, a Fullstack Developer from Vietnamese. I'm passionate about
 
 I have experience in `Typescript`, `Python`, `Docker`, and I'm always looking to learn more and expand my knowledge. Some of my recent projects include my projects, and you can find more about them on my GitHub page.
 
-<div>
-  ![Profile view](https://komarev.com/ghpvc/?username=howznguyen&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-</div>
-
+![](https://komarev.com/ghpvc/?username=howznguyen&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 ## Statistics
 
@@ -15,12 +12,11 @@ I have experience in `Typescript`, `Python`, `Docker`, and I'm always looking to
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=howznguyen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&theme=tokyonight" />
 </div>
+
 <div align="center">
-    <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howznguyen&layout=compact&theme=tokyonight" />
-    <img width="52%" src="https://github-profile-trophy.vercel.app/?username=howznguyen&theme=onedark&row=3&column=4" />
-</div>
-<div align="center">
+  
   ![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  
 </div>
 
 ## Knowledge
