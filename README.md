@@ -15,7 +15,8 @@ I have experience in `Typescript`, `Python`, `Docker`, and I'm always looking to
 
 <div align="center">
   
-  ![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  ![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 </div>
 
