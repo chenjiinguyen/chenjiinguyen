@@ -9,7 +9,7 @@ I have experience in `Typescript`, `Python`, `Docker`, and I'm always looking to
 ## Statistics
 
 <div align="center">	
-  <img width="48%" src="github-readme-streak-stats.herokuapp.com?user=howznguyen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=howznguyen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&theme=tokyonight" />
 </div>
 
