@@ -1,8 +1,14 @@
 ## Hi there 👋
-  
-I'm **Howz Nguyen**, a Fullstack Developer from Vietnamese. I'm passionate about Backend & Data , and I enjoy using technology to solve problems and create new things.
 
-I have experience in `Typescript`, `Python`, `Docker`, and I'm always looking to learn more and expand my knowledge. Some of my recent projects include my projects, and you can find more about them on my GitHub page.
+In the bustling realm of software development, I'm known as Howz Nguyen, the Fullstack Developer who can whip up code like a culinary maestro conjures up delectable dishes. With a sprinkle of TypeScript, a dash of PHP, and a generous helping of Docker, I craft digital solutions that are as robust as they are innovative.
+
+My passion for problem-solving and creating new things is akin to a kid in a candy store, except instead of sugary treats, I'm surrounded by an endless supply of algorithms and data structures. I'm always eager to expand my knowledge, constantly learning and evolving, just like the ever-changing world of technology.
+
+When I'm not busy coding up a storm, you might find me exploring the latest tech trends, engaging in lively discussions with fellow developers, or simply enjoying the occasional cat video. (Hey, don't judge, they're a great source of inspiration!)
+
+So, if you're seeking a Fullstack Developer who can bring your ideas to life with a touch of humor and a whole lot of expertise, look no further. I'm your guy!
+
+**P.S.** My projects are like hidden gems waiting to be discovered. Check them out on my GitHub page and let me know what you think!
 
 ![](https://komarev.com/ghpvc/?username=howznguyen&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
@@ -38,12 +44,18 @@ I have experience in `Typescript`, `Python`, `Docker`, and I'm always looking to
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/howznguyen/)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/howznguyen/)
 
+**Back-end**
+
+[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter)](https://github.com/howznguyen/)
+[![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)](https://github.com/howznguyen/)
+[![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)](https://github.com/howznguyen/)
+[![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)](https://github.com/howznguyen/)
+
 **Front-end**
 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/howznguyen/)
+[![VueJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/howznguyen/)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&logoColor=white)](https://github.com/howznguyen/)
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)](https://github.com/howznguyen/)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://github.com/howznguyen/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/howznguyen/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)](https://github.com/howznguyen/)
 
@@ -58,8 +70,12 @@ I have experience in `Typescript`, `Python`, `Docker`, and I'm always looking to
 [![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX&logoColor=white)](https://github.com/howznguyen/)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)](https://github.com/howznguyen/)
 
+**Services**
+
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonwebservices&logoColor=white)](https://github.com/howznguyen/)
+[![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe&logoColor=white)](https://github.com/howznguyen/)
 
 **Tools**
 
-[![Linux](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://github.com/howznguyen/)
+[![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://github.com/howznguyen/)
 
