@@ -20,7 +20,7 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
       srcset="https://streak-stats.demolab.com?user=howznguyen&theme=dracula&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <source width="48%"
+    <source
       srcset="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
