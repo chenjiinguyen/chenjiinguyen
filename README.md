@@ -15,7 +15,7 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
 ## Statistics
 
 <div align="center">
-  <picture width="48%">
+  <picture>
     <source
       srcset="https://streak-stats.demolab.com?user=howznguyen&theme=dracula&hide_border=true"
       media="(prefers-color-scheme: dark)"
@@ -24,10 +24,10 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
       srcset="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true" />
+    <img width="48%" src="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true" />
   </picture>
   
-  <picture width="48%">
+  <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
@@ -36,7 +36,7 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
       srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true" />
   </picture>
 </div>
 
