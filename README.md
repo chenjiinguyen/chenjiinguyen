@@ -13,33 +13,39 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
 ![](https://komarev.com/ghpvc/?username=howznguyen&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 ## Statistics
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=howznguyen" />
 
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=howznguyen&theme=dracula&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true" />
-</picture>
+<div>
+  <picture width="48%">
+    <source
+      srcset="https://streak-stats.demolab.com?user=howznguyen&theme=dracula&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source width="48%"
+      srcset="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true" />
+  </picture>
+  
+  <picture width="48%">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true" />
+  </picture>
+</div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true" />
-</picture>
+<div>
+  <img width="48%" src="https://stats.dooboo.io/api/github-stats-advanced?login=howznguyen" />
+  
+  <img width="48%" src="https://stats.dooboo.io/api/github-trophies?login=howznguyen" />
+</div>
 
-<img src="https://stats.dooboo.io/api/github-trophies?login=howznguyen" />
 
 ## My Repos
 <a href="https://github.com/howznguyen/howz.dev">
