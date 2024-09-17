@@ -13,18 +13,62 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
 ![](https://komarev.com/ghpvc/?username=howznguyen&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 ## Statistics
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=howznguyen" />
 
-<div align="center">	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=howznguyen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&theme=tokyonight" />
-</div>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=howznguyen&theme=dracula&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true" />
+</picture>
 
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/howznguyen/howznguyen/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![Snake animation](https://raw.githubusercontent.com/howznguyen/howznguyen/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true" />
+</picture>
+
+<img src="https://stats.dooboo.io/api/github-trophies?login=howznguyen" />
+
+## My Repos
+<a href="https://github.com/howznguyen/howz.dev">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=howznguyen&repo=howz.dev&hide_border=true&count_private=true&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=howznguyen&repo=howz.dev&hide_border=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=howznguyen&repo=howz.dev&hide_border=true&count_private=true" />
+  </picture>
+</a>
+<a href="https://github.com/howznguyen/AlgorithmExercises">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=howznguyen&repo=AlgorithmExercises&hide_border=true&count_private=true&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=howznguyen&repo=AlgorithmExercises&hide_border=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=howznguyen&repo=AlgorithmExercises&hide_border=true&count_private=true" />
+  </picture>
+</a>
+
 
 ## Knowledge
 **Languages**
