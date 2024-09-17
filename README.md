@@ -15,7 +15,7 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
 ## Statistics
 
 <div>
-  <picture width="45%">
+  <picture width="40%">
     <source
       srcset="https://streak-stats.demolab.com?user=howznguyen&theme=dracula&hide_border=true"
       media="(prefers-color-scheme: dark)"
@@ -27,7 +27,7 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
     <img src="https://streak-stats.demolab.com?user=howznguyen&theme=default&hide_border=true" />
   </picture>
   
-  <picture width="45%">
+  <picture width="40%">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&hide_border=true&count_private=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
@@ -41,9 +41,9 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
 </div>
 
 <div>
-  <img width="45%" src="https://stats.dooboo.io/api/github-stats-advanced?login=howznguyen" />
+  <img width="40%" src="https://stats.dooboo.io/api/github-stats-advanced?login=howznguyen" />
   
-  <img width="45%" src="https://stats.dooboo.io/api/github-trophies?login=howznguyen" />
+  <img width="40%" src="https://stats.dooboo.io/api/github-trophies?login=howznguyen" />
 </div>
 
 
