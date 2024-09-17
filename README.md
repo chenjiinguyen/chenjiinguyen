@@ -40,7 +40,7 @@ So, if you're seeking a Fullstack Developer who can bring your ideas to life wit
   </picture>
 </div>
 
-<div>
+<div align="center">
   <img width="48%" src="https://stats.dooboo.io/api/github-stats-advanced?login=howznguyen" />
   
   <img width="48%" src="https://stats.dooboo.io/api/github-trophies?login=howznguyen" />
